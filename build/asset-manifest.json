@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7ac41423.css",
+    "main.js": "/static/js/main.1a4c8f5b.js",
+    "static/media/cider apple.png": "/static/media/cider apple.e6976cbaca115fca988c.png",
+    "static/media/cider berry.png": "/static/media/cider berry.e6976cbaca115fca988c.png",
+    "static/media/mead ligonberry.png": "/static/media/mead ligonberry.e6976cbaca115fca988c.png",
+    "static/media/mead melon.png": "/static/media/mead melon.e6976cbaca115fca988c.png",
+    "static/media/delivery.png": "/static/media/delivery.3ce039ccbb8f1613bec0.png",
+    "static/media/munich dark.png": "/static/media/munich dark.19dbbfeb053d57b94174.png",
+    "static/media/porter.png": "/static/media/porter.19dbbfeb053d57b94174.png",
+    "static/media/stout.png": "/static/media/stout.19dbbfeb053d57b94174.png",
+    "static/media/blanche.png": "/static/media/blanche.dcfa4a729cfca8c2223a.png",
+    "static/media/kellerbier.png": "/static/media/kellerbier.dcfa4a729cfca8c2223a.png",
+    "static/media/munich.png": "/static/media/munich.dcfa4a729cfca8c2223a.png",
+    "static/media/waissbier.png": "/static/media/waissbier.dcfa4a729cfca8c2223a.png",
+    "static/media/zwickelbier.png": "/static/media/zwickelbier.dcfa4a729cfca8c2223a.png",
+    "static/media/ipa.png": "/static/media/ipa.af6af45413ed364ab615.png",
+    "static/media/apa.png": "/static/media/apa.bd0430b8cbc356aca28a.png",
+    "index.html": "/index.html",
+    "main.7ac41423.css.map": "/static/css/main.7ac41423.css.map",
+    "main.1a4c8f5b.js.map": "/static/js/main.1a4c8f5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ac41423.css",
+    "static/js/main.1a4c8f5b.js"
+  ]
+}
